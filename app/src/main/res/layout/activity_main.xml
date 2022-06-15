@@ -32,7 +32,7 @@
 
 
             <Button
-                android:id="@+id/btnSeven"
+                android:id="@+id/buttonSeven"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -43,7 +43,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btnHeight"
+                android:id="@+id/buttonHeight"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -54,7 +54,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btnNine"
+                android:id="@+id/buttonNine"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -65,7 +65,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnDivision"
+                android:id="@+id/buttonDivision"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -84,7 +84,7 @@
 
 
             <Button
-                android:id="@+id/btnFour"
+                android:id="@+id/buttonFour"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -95,7 +95,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnFive"
+                android:id="@+id/buttonFive"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -106,7 +106,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnSix"
+                android:id="@+id/buttonSix"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -117,7 +117,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnMultiply"
+                android:id="@+id/buttonMultiply"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -136,7 +136,7 @@
 
 
             <Button
-                android:id="@+id/btnOne"
+                android:id="@+id/buttonOne"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -147,7 +147,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnTwo"
+                android:id="@+id/buttonTwo"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -158,7 +158,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnThree"
+                android:id="@+id/buttonThree"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -169,7 +169,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnMoins"
+                android:id="@+id/buttonMoins"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -188,7 +188,7 @@
 
 
             <Button
-                android:id="@+id/btnPrct"
+                android:id="@+id/buttonPrct"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -199,7 +199,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnZero"
+                android:id="@+id/buttonZero"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -210,7 +210,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnDot"
+                android:id="@+id/buttonDot"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -221,7 +221,7 @@
                 android:onClick="numberEnter"/>
 
             <Button
-                android:id="@+id/btnPlus"
+                android:id="@+id/buttonPlus"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -240,7 +240,7 @@
 
 
             <Button
-                android:id="@+id/btnClear"
+                android:id="@+id/buttonClear"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"
@@ -251,7 +251,7 @@
                 android:onClick="clear"/>
 
             <Button
-                android:id="@+id/btnEqual"
+                android:id="@+id/buttonEqual"
                 android:layout_width="30pt"
                 android:layout_height="30pt"
                 android:layout_marginRight="1pt"

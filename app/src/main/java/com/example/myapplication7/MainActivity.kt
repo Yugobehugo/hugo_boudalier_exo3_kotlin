@@ -21,37 +21,37 @@ class MainActivity : AppCompatActivity() {
         if(newOperator) editText.setText("")
         newOperator = false
         var number: String = editText.text.toString()
-        if(view.id == btnOne.id){
+        if(view.id == buttonOne.id){
             number += "1"
         }
-        else if (view.id === btnTwo.id) {
+        else if (view.id === buttonTwo.id) {
             number += "2"
         }
-        else if (view.id === btnThree.id) {
+        else if (view.id === buttonThree.id) {
             number += "3"
         }
-        else if (view.id === btnFour.id) {
+        else if (view.id === buttonFour.id) {
             number += "4"
         }
-        else if (view.id === btnFive.id) {
+        else if (view.id === buttonFive.id) {
             number += "5"
         }
-        else if (view.id === btnSix.id) {
+        else if (view.id === buttonSix.id) {
             number += "6"
         }
-        else if (view.id === btnSeven.id) {
+        else if (view.id === buttonSeven.id) {
             number += "7"
         }
-        else if (view.id === btnHeight.id) {
+        else if (view.id === buttonHeight.id) {
             number += "8"
         }
-        else if (view.id === btnNine.id) {
+        else if (view.id === buttonNine.id) {
             number += "9"
         }
-        else if (view.id === btnZero.id) {
+        else if (view.id === buttonZero.id) {
             number += "0"
         }
-        else if (view.id === btnDot.id) {
+        else if (view.id === buttonDot.id) {
             number += "."
         }
         editText.setText(number)
@@ -60,16 +60,16 @@ class MainActivity : AppCompatActivity() {
     fun operatorEnter(view: View){
         newOperator = true
         setNumber = editText.text.toString()
-        if (view.id === btnMultiply.id) {
+        if (view.id === buttonMultiply.id) {
             operator = "*"
         }
-        else if (view.id === btnMoins.id) {
+        else if (view.id === buttonMoins.id) {
             operator = "-"
         }
-        else if (view.id === btnDivision.id) {
+        else if (view.id === buttonDivision.id) {
             operator = "/"
         }
-        else if (view.id === btnPlus.id) {
+        else if (view.id === buttonPlus.id) {
             operator = "+"
         }
     }
